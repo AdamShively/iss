@@ -1,5 +1,5 @@
 # International-Space-Station
-This is a representation of the International Space Station's position relative to earth.
+This is a representation of the International Space Station's position relative to earth. Makes a query to retrieve data from the Nasa website database.
 
 # How-To
 Run iss.py to use.
